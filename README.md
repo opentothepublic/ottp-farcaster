@@ -1,4 +1,4 @@
-# OTTP Integrations on Farcaster
+# OTTP Integrations with Farcaster
 
 ## Frames
 
